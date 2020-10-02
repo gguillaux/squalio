@@ -16,4 +16,4 @@ sudo apt upgrade
 # check docker version and status
 sudo systemctl status docker
 echo " ===================\n\n ===================\n"
-docker -v
+docker -v'
